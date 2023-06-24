@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+
+<table border="3px" bgcolor="#FFE4B5" width="600px" cellpadding="5px" cellspacing="5px">
+<tr>
+ <th> Student No </th>
+ <th> Student Name </th>
+ <th> Mail Address </th>
+ <th> Subject </th>
+ <th> Profile Picture </th>
+
+<tr>
+ <td> 123   </td>
+ <td> Kaw   </td>>
+ <td> <a href="mailto:Kaw@gmail.com">kaw@gmail.com</a> </td>
+ <td> WP   </td>
+ <td> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI8DK8HCuvWNyHHg8enmbmmf1ue4AeeF3GDw&usqp=CAU" width="100px"</td>
+</tr>
+
+<tr>
+ <td> 345 </td>
+ <td> Nilani </td>
+ <td> <a href="mailto:Nilani@gmail.com">nilani@gmail.com</a> </td>
+ <td> WP </td>
+ <td> <img src="https://dl.memuplay.com/new_market/img/com.vicman.newprofilepic.icon.2022-06-07-21-33-07.png" width="100px"</td>
+</tr>
+</table>
+<br>
+<br>
+<table border="1px" bgcolor="#9ACD32" width="600px" cellpadding="10" cellspacing="0">
+<tr>
+  <th>Schedule</th>
+  <th>9am</th>
+  <th>10am</th>
+  <th>11am</th>
+  <th>12am</th>
+<tr>
+<tr>
+  <th>Monday</th>
+  <td colspan="2">English</td>
+  <td>Math</td>
+  <td rowspan="2">Art</td>
+</tr>
+<tr>
+<th>Tuesday</th>
+<td colspan="3">Technology</td>
+</tr>
+</table>
+<br>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1O6e8HlPzQ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br>
+<br>
+<iframe src="https://www.google.com/maps/d/embed?mid=1M9NB1uU8IQQluzCe_UVMxxXNYhs&hl=en_US&ehbc=2E312F" width="200" height="200"></iframe>
+<br>
+<br>
+<iframe src="https://www.w3schools.com/html/tryit.asp?filename=tryhtml_default" width="640" height="480"></iframe>
+
+
+</body>
+</html>
